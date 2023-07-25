@@ -5,4 +5,4 @@
 구글 설정-개인정보 보호 및 보안-안전하지 않은 콘텐츠 '허용'으로 바꿔야함
 
 
-URL : https://singular-mandazi-536ab6.netlify.app
+URL : https://singular-mandazi-536ab6.netlify.app/index.html
