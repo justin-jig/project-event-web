@@ -10,8 +10,7 @@ main {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    display: flex; color: #fff;
-    justify-content: center; align-items: center;
+    display: flex; color: #fff; 
     opacity: 0.85;
 }
 
