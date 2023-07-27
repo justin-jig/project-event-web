@@ -4,10 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>서울 구석구석 login</title>
+    <title>서울구석구석 로그인</title>
     <link rel="stylesheet" href="./css/initialize.css">
     <link rel="stylesheet" href="./css/login.css">
     <link rel="stylesheet" href="./css/headerFooter.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+
 
 </head>
 
@@ -33,6 +35,10 @@
                         class="inputStyle">
                 </div>
                 <div id="lg" onclick="loginOnclick()">Login</div>
+
+                <div id="emailInvaild" class="login-email-invaild">
+                    이메일 형식이 맞지 않습니다.
+                </div>
                 <div id="checkbox">
                     <input type="checkbox">
                     <label>로그인 정보 저장</label>
