@@ -4,7 +4,7 @@
 공공 api가 http만 허용하므로
 구글 설정-개인정보 보호 및 보안-안전하지 않은 콘텐츠 '허용'으로 바꿔야함
 
-사용 stack
+사용 stack :
 html, css3, javascript, jqurey
 
 
